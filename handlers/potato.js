@@ -27,7 +27,7 @@ class PotatoController extends TelegramBaseController {
     static romInfos() {
         return {
             fullName: "POSP",
-            extraSFPath: "{0}/weeklies",
+            extraSFPath: "{0}",
             projectName: "posp",
             website: ""
         }
